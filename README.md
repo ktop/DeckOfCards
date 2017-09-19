@@ -8,7 +8,12 @@ This DeckOfCards project will generate a standard 52-card poker deck made of 4 s
 
 A main class is included in this project with four scenarios. Uncomment each scenario and run the project to see the output in the console.
 
-J-Unit tests were added to cover most of the functions used in the project.
+JUnit tests were added to cover most of the functions used in the project.
+
+## Environment
+- Eclipse Oxygen
+- Java 8
+- JUnit 4
 
 ## Design Thought Process
 This project was left open-ended, so I went with simplicity and efficiency in my design choices. Since there isn't a particular card game I am catering this towards, I don't really care about the value of cards, just that there are 52 combinations of 4 suits and 13 ranks.
